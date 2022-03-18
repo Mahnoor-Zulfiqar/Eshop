@@ -1,2 +1,2 @@
 # Eshop
-Ecommerce Website Developed for Vaducana 
+Ecommerce Website Developed for Vaducana  by mahnoor
