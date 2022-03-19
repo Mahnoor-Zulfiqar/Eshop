@@ -42,7 +42,11 @@
 	<link rel="stylesheet" href="{{asset('css/style.css')}}">
     <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
 
-	
+<style type="text/css">
+	.single-slider{
+		background-image: url({{URL::asset('products/slider_01.jpg')}}) !important;;
+	}
+</style>	
 	
 </head>
 <body class="js">
@@ -81,8 +85,8 @@
 							<ul class="list-main">
 								<li><i class="ti-location-pin"></i> Store location</li>
 								<li><i class="ti-alarm-clock"></i> <a href="#">Daily deal</a></li>
-								<li><i class="ti-user"></i> <a href="#">My account</a></li>
-								<li><i class="ti-power-off"></i><a href="login.html#">Login</a></li>
+								<!-- <li><i class="ti-user"></i> <a href="#">My account</a></li>
+								<li><i class="ti-power-off"></i><a href="login.html#">Login</a></li> -->
 							</ul>
 						</div>
 						<!-- End Top Right -->
@@ -104,19 +108,19 @@
 						<div class="search-top">
 							<div class="top-search"><a href="#0"><i class="ti-search"></i></a></div>
 							<!-- Search Form -->
-							<div class="search-top">
+							<!-- <div class="search-top">
 								<form class="search-form">
 									<input type="text" placeholder="Search here..." name="search">
 									<button value="search" type="submit"><i class="ti-search"></i></button>
 								</form>
-							</div>
+							</div> -->
 							<!--/ End Search Form -->
 						</div>
 						<!--/ End Search Form -->
 						<div class="mobile-nav"></div>
 					</div>
 					<div class="col-lg-8 col-md-7 col-12">
-						<div class="search-bar-top">
+						<!-- <div class="search-bar-top">
 							<div class="search-bar">
 								<select>
 									<option selected="selected">All Category</option>
@@ -129,17 +133,17 @@
 									<button class="btnn"><i class="ti-search"></i></button>
 								</form>
 							</div>
-						</div>
+						</div> -->
 					</div>
 					<div class="col-lg-2 col-md-3 col-12">
 						<div class="right-bar">
 							<!-- Search Form -->
-							<div class="sinlge-bar">
+							<!-- <div class="sinlge-bar">
 								<a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
-							</div>
-							<div class="sinlge-bar">
+							</div> -->
+							<!-- <div class="sinlge-bar">
 								<a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
-							</div>
+							</div> -->
 							<div class="sinlge-bar shopping">
 								<a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
 								<!-- Shopping Item -->
@@ -189,9 +193,9 @@
 									<div class="navbar-collapse">	
 										<div class="nav-inner">	
 											<ul class="nav main-menu menu navbar-nav">
-													<li class="active"><a href="#">Home</a></li>
+													<li class="active"><a href="/">Home</a></li>
 													<li><a href="/product">Product</a></li>			
-													<li><a href="#">Categories<i class="ti-angle-down"></i></a>
+													<!-- <li><a href="#">Categories<i class="ti-angle-down"></i></a>
 														<ul class="dropdown">
 															<li><a href="/">Jiu jitsu Gi</a></li>
 															<li><a href="/">Boxing Gloves</a></li>
@@ -202,7 +206,7 @@
 															<li><a href="/">Mma gloves</a></li>
 															<li><a href="/">Bjj belts</a></li>
 														</ul>
-													</li>										
+													</li>	 -->									
 													<li><a href="#">Shop<i class="ti-angle-down"></i></a>
 														<ul class="dropdown">
 															<li><a href="/cart">Cart</a></li>

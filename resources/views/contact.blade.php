@@ -7,8 +7,8 @@
 			<div class="col-12">
 				<div class="bread-inner">
 					<ul class="bread-list">
-						<li><a href="index1.html">Home<i class="ti-arrow-right"></i></a></li>
-						<li class="active"><a href="blog-single.html">Contact</a></li>
+						<li><a href="/">Home<i class="ti-arrow-right"></i></a></li>
+						<li class="active"><a href="/contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -101,8 +101,8 @@
 </section>
 <!--/ End Contact -->
 <!-- Map Section -->
-<div class="map-section">
+<!-- <div class="map-section">
 	<div id="myMap"></div>
-</div>
+</div> -->
 <!--/ End Map Section -->
 @include('partials.footer')

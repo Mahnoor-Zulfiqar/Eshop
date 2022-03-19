@@ -689,7 +689,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Flared Shift Dress</h2>
+							<h2>SIGN OF THE TIMES BIGGIE HOODI</h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
@@ -707,7 +707,7 @@
 							</div>
 							<h3>$29.00</h3>
 							<div class="quickview-peragraph">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia iste laborum ad impedit pariatur esse optio tempora sint ullam autem deleniti nam in quos qui nemo ipsum numquam.</p>
+								<p>The Sign of the Times Biggie Hoodie Palm has an oversized fit with drawstrings, metal hardware and signature rats tail. It is made from a premium .</p>
 							</div>
 							<div class="size">
 								<div class="row">
@@ -773,7 +773,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Flared Shift Dress</h2>
+							<h2>THE STUDENT unisex pullover hoodi </h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
@@ -791,7 +791,7 @@
 							</div>
 							<h3>$29.00</h3>
 							<div class="quickview-peragraph">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia iste laborum ad impedit pariatur esse optio tempora sint ullam autem deleniti nam in quos qui nemo ipsum numquam.</p>
+								<p>This hoodie is so comfy and practical, it'll become your everyday favorite. It's extra soft and has convenient side pockets. Made from organic cotton</p>
 							</div>
 							<div class="size">
 								<div class="row">
@@ -857,7 +857,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Flared Shift Dress</h2>
+							<h2>Radiology Technician (Rad Tech) customazable Hoodi</h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
@@ -875,7 +875,7 @@
 							</div>
 							<h3>$29.00</h3>
 							<div class="quickview-peragraph">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia iste laborum ad impedit pariatur esse optio tempora sint ullam autem deleniti nam in quos qui nemo ipsum numquam.</p>
+								<p>Radiology Technician (Rad Tech) shirt for you or for your favorite Rad Tech. Great for a gift. Customizable font and colors. Pick your favorite shirt.</p>
 							</div>
 							<div class="size">
 								<div class="row">
@@ -941,7 +941,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Flared Shift Dress</h2>
+							<h2>White Stylish Hoodi </h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
@@ -959,7 +959,7 @@
 							</div>
 							<h3>$29.00</h3>
 							<div class="quickview-peragraph">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia iste laborum ad impedit pariatur esse optio tempora sint ullam autem deleniti nam in quos qui nemo ipsum numquam.</p>
+								<p>Hoodies are sportswears which keeps you warm in cold weathers. This kind of t-shirts are named hoodi.</p>
 							</div>
 							<div class="size">
 								<div class="row">
@@ -1278,7 +1278,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Flared Shift Dress</h2>
+							<h2>Men's White Cotton T-Shirt</h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
@@ -1296,7 +1296,7 @@
 							</div>
 							<h3>$29.00</h3>
 							<div class="quickview-peragraph">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia iste laborum ad impedit pariatur esse optio tempora sint ullam autem deleniti nam in quos qui nemo ipsum numquam.</p>
+								<p>Our new t-shirt features LongLast technology, so it looks newer, stays brighter and feels softer, wash after wash. From comfort comes confidence.</p>
 							</div>
 							<div class="size">
 								<div class="row">
@@ -1363,7 +1363,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Combat Sports Pro Style MMA Gloves XLarge Black</h2>
+							<h2>HAYABUSA Rashguard Metaru Long sleeve</h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
@@ -1381,7 +1381,7 @@
 							</div>
 							<h3>$29.00</h3>
 							<div class="quickview-peragraph">
-								<p>MMA fight gloves meet all state regulations for professional competition, with a five-ounce weight, as mandated by state athletic commissions.</p>
+								<p>The Scubapro rash guard is part of the UPF collection of Scubapro’s rash guards, leggings, steamers and bikini cut shorties.</p>
 							</div>
 							<div class="size">
 								<div class="row">
@@ -2289,7 +2289,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="quickview-content">
-							<h2>Combat Sports Pro Style MMA Gloves XLarge Black</h2>
+							<h2>Combat Sports Pro Style MMA Gloves XLarge</h2>
 							<div class="quickview-ratting-review">
 								<div class="quickview-ratting-wrap">
 									<div class="quickview-ratting">
